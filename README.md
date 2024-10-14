@@ -132,15 +132,11 @@
             <img src="https://github.com/user-attachments/assets/21469ce2-9ae7-45dd-963e-4c2d76b15ce3" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Kullnici Fazladan Harf Girmek Isterse</h4>
+            <h4 style="font-size: 14px;">Dosy Yolu</h4>
             <img src="https://github.com/user-attachments/assets/51854dea-59a3-41ff-9e76-118a29440275" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Tahmin Hakki Doldugunda Oyun biter</h4>
-            <img src="https://github.com/user-attachments/assets/2a000fa9-57f9-46d3-b645-29c8f81237f5" style="width: 100%; height: auto;">
-        </td>
-        <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Tum harfleri bulursa oyun biter</h4>
+            <h4 style="font-size: 14px;">Kaydedilen Txt Dosyalari</h4>
             <img src="https://github.com/user-attachments/assets/e041487a-c8b8-4776-b105-55304d67eb4e" style="width: 100%; height: auto;">
         </td>
     </tr>
