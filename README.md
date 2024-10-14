@@ -4,7 +4,7 @@
   </details> 
   <details>
     <summary><h2>SandBox Yapisi Detayli Anlatim </h2></summary>
-    [Medium Makale]([https://www.ornek.com](https://medium.com/@erenelci/swift-ile-ios-ipad-sandbox-yapısı-ios-geliştirici-rehberi-21237bcbe3c7))
+    [Medium Makale](https://medium.com/@erenelci/swift-ile-ios-ipad-sandbox-yapısı-ios-geliştirici-rehberi-21237bcbe3c7)
   </details>
 
   
